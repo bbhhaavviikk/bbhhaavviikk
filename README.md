@@ -2,6 +2,7 @@
 - 👔 I’m a BCA Student
 - 🇮🇳 I live in India
 - 💫 I’m currently learning C,C++,Python,Postgresql
+- <> I like programming in HTML,CSS too
 
 
 
